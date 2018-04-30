@@ -1,6 +1,16 @@
-# This is a large heading
+# Clint Steed 
 
-## This is a smaller heading
+### Intro
+
+I consider myself a developer of ideas of sort. Recently these projects have been in physical training, computer systems, personal development, diet and changes. 
+
+## Current goal
+
+My current goal is to become top notch researcher. I plan to achieve this by:
+- Completing my *PhD* at a well renowned university
+- Conducting high quality research, manifested in *2 research articles* and a *thesis*.
+
+
 
 And as **imagination** bodies forth,
 The forms of things *unknown*, the poet’s pen,
